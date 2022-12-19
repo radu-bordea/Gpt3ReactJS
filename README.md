@@ -1,3 +1,2 @@
 here is the link:
-
-https://online-education-javascript.netlify.app/
+https://react-project-gpt3.netlify.app/
